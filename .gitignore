@@ -2,5 +2,6 @@
 *.csv
 *.pdf
 *.zip
+*.tsv
 
 /Streams/23_logs
